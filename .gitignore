@@ -1,0 +1,5 @@
+.env
+temp/
+bot_stats.db
+__pycache__/
+*.mp4
